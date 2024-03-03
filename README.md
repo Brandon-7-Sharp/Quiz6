@@ -39,9 +39,9 @@ Next Enter 2 to do an activity
 Enter the new user id we just created: 'user'  
 Enter 2 for Cycling  
 Now you will be back in the main loop  
-
-Each time you did an activity, the program automatically added the data to your specified user id
-To test if the data is there follow these commands
-Enter 1 to view data
-Enter 'user' 
-The program now displays the new activities that you just did in the order you did them with the dummy data
+  
+Each time you did an activity, the program automatically added the data to your specified user id  
+To test if the data is there follow these commands  
+Enter 1 to view data  
+Enter 'user'  
+The program now displays the new activities that you just did in the order you did them with the dummy data  
